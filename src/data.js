@@ -9,7 +9,7 @@ export default [
   {
     id: 2,
     name: 'Nishant',
-    date: '24th February',
+    date: '26th February',
     image:'https://res.cloudinary.com/diqbr8phs/image/upload/v1672506705/WhatsApp_Image_2022-12-31_at_22.33.05_kihvah.jpg',
   },
   {
